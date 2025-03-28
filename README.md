@@ -4,7 +4,6 @@
 <div align="center">
 	<h1>Description</h1>
 	<p>The objective of this project is to create a library of functions that will be usefull for future projects of 42 School. The purpose is to understand how each one of these functions work, learn how to use them and, as the progress of 42 goes on, upgrade it </p>
-	<h1><a href="subject.pdf">Subject</a><h2>
 </div>
 
 <div align="center">
